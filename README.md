@@ -24,16 +24,3 @@
 </p>
 
 
-
-<br />
-<br />
-
-- ⛰️ An ML & Open Source enthusiast.<br />
-- ⛰️ C, C++, Python, Java <br />
-- ⛰️ Currently working on some of my cool side projects based on Web Development and Machine Learning.<br />
-- ⛰️ I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.<br />
-
-<a href="matthewtengtrakool.com">
-  matthewtengtrakool.com
-</a>
-
