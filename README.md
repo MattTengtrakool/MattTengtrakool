@@ -12,7 +12,7 @@
 <a href="https://www.hackerrank.com/ajaykhalsa_ak">
   <img align="left" alt="Matt's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
-
+<br />
 - An ML & Open Source enthusiast.
 - A Computer Engineering Undergraduate Student. 
 - Currently working on some of my cool side projects based on Web Development and Machine Learning.
