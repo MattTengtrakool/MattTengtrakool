@@ -1,17 +1,18 @@
 ## Hey I'm Matt! ⛰️ 
 
-<a href="https://twitter.com/ajaykhalsa_ak">
-  <img align="left" alt="Matt's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/ajay-singh-khalsa/">
-  <img align="left" alt="Matt's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/AjayKhalsa">
-  <img align="left" alt="Matt's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://www.hackerrank.com/ajaykhalsa_ak">
+<a href="https://medium.com/@matt.tengtrakool">
   <img align="left" alt="Matt's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
+<a href="https://www.linkedin.com/in/matt-tengtrakool/">
+  <img align="left" alt="Matt's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/MattTengtrakool">
+  <img align="left" alt="Matt's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://twitter.com/MattTtkool">
+  <img align="left" alt="Matt's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+
 <br />
 - An ML & Open Source enthusiast.<br />
 
