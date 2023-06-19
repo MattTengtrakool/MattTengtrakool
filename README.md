@@ -1,5 +1,6 @@
+<p align="center">
 ## Hey I'm Matt! ⛰️ 
-
+</p>
 <p align="center">
   <i><b>Let's connect and chat!</b></i>
 
