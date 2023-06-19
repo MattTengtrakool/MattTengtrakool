@@ -13,10 +13,14 @@
   <img align="left" alt="Matt's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 <br />
-- An ML & Open Source enthusiast.
-- A Computer Engineering Undergraduate Student. 
-- Currently working on some of my cool side projects based on Web Development and Machine Learning.
-- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
+- An ML & Open Source enthusiast.<br />
+
+- A Computer Engineering Undergraduate Student. <br />
+
+- Currently working on some of my cool side projects based on Web Development and Machine Learning.<br />
+
+- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.<br />
+
 
 <a href="matthewtengtrakool.com">
   matthewtengtrakool.com
