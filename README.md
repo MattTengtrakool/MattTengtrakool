@@ -1,6 +1,6 @@
-<p align="center">
-## Hey I'm Matt! ⛰️ 
-</p>
+<h1 align="center">
+Hey I'm Matt! ⛰️ 
+</h1>
 <p align="center">
   <i><b>Let's connect and chat!</b></i> 
   <a href="matthewtengtrakool.com">
