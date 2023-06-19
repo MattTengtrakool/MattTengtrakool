@@ -6,11 +6,11 @@
 <a href="https://www.linkedin.com/in/matt-tengtrakool/">
   <img align="left" alt="Matt's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/MattTengtrakool">
-  <img align="left" alt="Matt's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
 <a href="https://twitter.com/MattTtkool">
   <img align="left" alt="Matt's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://github.com/MattTengtrakool">
+  <img align="left" alt="Matt's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
 <br />
