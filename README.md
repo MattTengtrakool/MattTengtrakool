@@ -4,7 +4,7 @@ Hey I'm Matt! ⛰️
 <p align="center">
   <i><b>Let's connect and chat!</b></i> 
 </br>
-  <a href="matthewtengtrakool.com">
+  <a href="www.matthewtengtrakool.com">
   matthewtengtrakool.com
   </a>
 
